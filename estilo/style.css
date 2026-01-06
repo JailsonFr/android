@@ -73,6 +73,7 @@ header > p {
 header {
     background-image: linear-gradient(to bottom, var(--cor1), var(--cor5));
     min-height: 150px;
+    min-width: 200px;
     text-align: center;
     padding: 30px;
 }
